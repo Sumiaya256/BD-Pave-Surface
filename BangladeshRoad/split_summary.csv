@@ -1,0 +1,4 @@
+split,original_images,scene_groups,augmented_images,Crack,Good,Pothole,scene_overlap_across_splits,similarity_threshold,random_seed
+train,6300,4715,0,2100,2100,2100,0,0.95,17
+val,1350,491,0,450,450,450,0,0.95,17
+test,1350,492,0,450,450,450,0,0.95,17

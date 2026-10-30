@@ -1,0 +1,11 @@
+# BD-PaveSurface reproducibility dependencies
+# Recorded runtime: Python 3.11.13
+# Recorded PyTorch version: 2.5.1
+numpy
+pandas
+Pillow
+matplotlib
+tqdm
+scikit-learn
+torch==2.5.1
+torchvision

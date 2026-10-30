@@ -1,0 +1,12 @@
+BD-PaveSurface recorded software and hardware environment
+=========================================================
+Python: 3.11.13
+PyTorch: 2.5.1
+Operating system: Windows
+GPU: NVIDIA GeForce RTX 3050 Laptop GPU, 4 GB VRAM
+RAM: 32 GB
+CPU: AMD Ryzen 7 5800H, 3.20 GHz
+
+The executed final notebook did not embed exact installed versions for NumPy, pandas,
+Pillow, Matplotlib, tqdm, scikit-learn, or torchvision. These versions are therefore
+not fabricated here. The required packages are listed in requirements.txt.
